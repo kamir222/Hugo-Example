@@ -14,7 +14,8 @@ googleAnalytics='google analytics code'
   tag = "tags"
 
 [params]
-  description = "site description"
+  description = "Best hotels in Istanbul"
+  subDescription = "Enter your dates and choose from 2709 hotels, apartments and more!"
   author = "your name"
   github ="github username"
   securityPolicy = false #disable https content security policy
