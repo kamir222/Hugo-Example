@@ -1,5 +1,5 @@
 baseURL = "http://example.org/"
-title = "Site Name"
+title = "MobyTrip"
 languageCode = "zh-CN"
 copyright = "Copyright right infomation."
 themesdir = "themes"
